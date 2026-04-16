@@ -307,7 +307,7 @@ export function PetStateRealtime() {
             className="w-full rounded-2xl border px-4 py-3 text-sm font-medium transition hover:bg-black/5 dark:hover:bg-white/10 disabled:opacity-60"
             style={{ borderColor: "var(--border)" }}
           >
-            Play
+            Подраконить
           </motion.button>
 
           <motion.button
